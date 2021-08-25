@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codeuntilcold
-- 👀 I’m interested in making you happy
-- 🌱 I’m currently learning Systems, OOP
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning CN, DBS and SE
 - 💞️ I’m looking to collaborate on Web Apps
 - 📫 How to reach me: quocdungngole@gmail.com
 
